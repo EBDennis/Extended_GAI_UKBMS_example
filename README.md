@@ -1,7 +1,15 @@
 # Extended_GAI_UKBMS_example
-Demonstration of the extension of the GAI to incorporate the annual model.
+The repository contains data and code to demonstrate the extension of the GAI to incorporate the annual model, with application to UK Butterfly Monitoring Scheme (UKBMS) data.
 
 Please see the associated paper for details: Dennis, E.B., Diana, A., Matechou, E. and Morgan, B.J.T (2023) Efficient statistical inference methods for assessing changes in species' populations using citizen science data. Under submission.
+
+## Instructions
+
+fit_extendedGAI.R will fit the models and produce outputs.
+
+extendedGAI_outputs.R produces plots from the outputs.
+
+## Data
 
 The following data files are provided:
 
